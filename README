@@ -1,0 +1,1 @@
+To increse the number of open files per session: `ulimit -n <NUMBER>`
